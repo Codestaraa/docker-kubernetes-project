@@ -1,6 +1,6 @@
-__pycache__/
 *.pyc
-*.pyo
-.venv/
-.env
 *.log
+*.env
+__pycache__/
+docker-compose.yml
+node_modules/
